@@ -1,9 +1,14 @@
+<p align="center">
+  <img src="https://github.com/your-username/your-username/raw/main/assets/banner.gif" alt="Profile GIF" width="200" height="200" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Egor</h1>
 <h3 align="center">A passionate developer who loves building cool stuff</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+%7C+Frontend+%7C+Fullstack;FastAPI+%7C+Python+%7C+SQLAlchemy;React+%7C+JS+%7C+Tailwind+%7C+UI%2FUX" alt="Typing SVG" />
 </p>
+
 
 ---
 
