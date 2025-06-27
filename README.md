@@ -37,23 +37,10 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=visualstudiocode)
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 📜 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-bg=true&margin-w=15" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 ---
