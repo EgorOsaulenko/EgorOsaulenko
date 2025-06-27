@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/main/assets/banner.gif" alt="Profile GIF" width="200" height="200" />
+  <img src="https://github.com/EgorOsaulenko/EgorOsaulenko/raw/main/assets/banner.gif" alt="Profile GIF" width="200" height="200" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Egor</h1>
